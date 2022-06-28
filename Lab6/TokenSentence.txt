@@ -1,0 +1,14 @@
+Tokenization is the task of extracting tokens from the input text. The definition of ‘token’ depends on the
+application, but in most cases complete words count as tokens; sometimes punctuation markers do as well.
+Write a simple tokenizer that given an input text and delimiting characters outputs one word per line by
+replacing strings of delimiting characters with newlines.
+
+Tokenization-is-the-task-of-extracting-tokens-from-the-input-text.-The-definition-of-‘token’-depends-on-the
+application,-but-in-most-cases-complete-words-count-as-tokens;-sometimes-punctuation-markers-do-as-well.
+Write-a-simple-tokenizer-that-given-an-input-text-and-delimiting-characters-outputs-one-word-per-line-by
+replacing-strings-of-delimiting-characters-with-newlines.
+
+Tokenization:is:the:task:of:extracting:tokens:from:the:input:text.:The:definition:of:‘token’:depends:on:the
+application,:but:in:most:cases:complete:words:count:as:tokens;:sometimes:punctuation:markers:do:as:well.
+Write:a:simple:tokenizer:that:given:an:input:text:and:delimiting:characters:outputs:one:word:per:line:by
+replacing:strings:of:delimiting:characters:with:newlines.

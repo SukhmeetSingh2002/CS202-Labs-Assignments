@@ -1,0 +1,6 @@
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/SukhmeetSingh2002/TicTacToe-using-OOP.git
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/SukhmeetSingh2002/The-HangMan-Game.git
